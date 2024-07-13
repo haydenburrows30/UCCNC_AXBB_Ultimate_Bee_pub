@@ -70,7 +70,7 @@ https://www.cnczone.com/forums/uccnc-control-software/
 ## Screensets
 
 - https://github.com/twentyfortysix/uccnc_screenset_2046
-<img src="https://github.com/twentyfortysix/uccnc_screenset_2046/raw/main/run.jpg" width=400px>
+<img src="https://github.com/twentyfortysix/uccnc_screenset_2046/raw/main/run.png" width=400px>
 
 - http://www.thecncwoodworker.com/uccnc.html
 
