@@ -74,7 +74,7 @@ https://www.cnczone.com/forums/uccnc-control-software/
 
 - http://www.thecncwoodworker.com/uccnc.html
 
-|<img src="http://www.thecncwoodworker.com/uccnc/images/2017_sm.png" width=400px>|<img src="http://www.thecncwoodworker.com/uccnc/images/2022_sm.png" width=400px>|
+|<img src="images/mainscreenset.png" width=400px>|<img src="images/runscreen.png" width=400px>|
 | --- | --- |
 
 - https://neonscreenset.weebly.com/
