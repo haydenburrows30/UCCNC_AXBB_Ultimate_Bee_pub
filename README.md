@@ -54,7 +54,7 @@ https://cncdrive.com/downloads/4ax_ACservo_schematics.pdf
 
 ### My Schematic & Layout
 
-[Schematic](CNC/control_box/CNC%20Control%20Box-REV%201.pdf) \
+[Schematic](CNC/control_box/CNC%20Control%20Box-REV%202.pdf) \
 [Layout](CNC/control_box/CNC%20Control%20Box%20Layout-REV%201.pdf)
 
 # UCCNC
