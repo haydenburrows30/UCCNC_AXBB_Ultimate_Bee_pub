@@ -1,0 +1,50 @@
+Setup Axes
+
+X axis
+port 1
+step pin 9
+dir pin 10
+
+Port 2
+Limit- pin 3
+Limit+ pin3
+
+steps/unit 160
+
+Y Axis
+port 1
+step pin 11
+dir pin 12
+
+Port 2
+Limit- pin 2
+Limit+ pin 2
+
+steps/unit 160
+
+slave axis - A axis
+
+Z Axis
+port 1
+step pin 15
+dir pin 16
+
+Port 2
+Limit- pin 1
+Limit+ pin 1
+
+steps/unit 400
+
+A Axis
+port 1
+step pin 13
+dir pin 14
+
+steps/unit 160
+
+i/o setup 1
+
+e-stop pin 4 port 2
+charge pump always on (output1)
+
+If using 0-10V for spindle, check spindle pwm -> analog ch = 1
