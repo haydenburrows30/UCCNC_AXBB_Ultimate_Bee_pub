@@ -78,7 +78,7 @@ https://www.cnczone.com/forums/uccnc-control-software/
 | --- | --- |
 
 - https://neonscreenset.weebly.com/
-<img src="https://neonscreenset.weebly.com/uploads/1/3/1/2/131235097/main_orig.jpg" width=400px>
+<img src="images/main_orig.jpg" width=400px>
 
 - https://www.youtube.com/watch?v=5Km2x1G6RB4
 <img src="images/blackedition.png" width=400px>
